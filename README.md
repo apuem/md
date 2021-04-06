@@ -29,15 +29,14 @@ Line:
 
 ---
 
-1. one
-2. two
-    1. One
-    2. Two
-3. Three
-
+1. OrderedItem1
+2. OrderedItem2
+    1. SubItem1
+    2. SubItem2
+3. OrderedItem3
 
 * UnorderedItem1
 * UnorderedItem2
-  * SubItem
+    * SubItem
 
 ![alt text](https://a-static.github.io/a.png "Apuem Logo")
