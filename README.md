@@ -31,10 +31,10 @@ Line:
 
 1. OrderedItem1
 2. OrderedItem2
-⋅⋅1. SubItem
+  1. SubItem
 
 * UnorderedItem1
 * UnorderedItem2
-⋅⋅* SubItem
+  * SubItem
 
-!![alt text](https://a-static.github.io/a.png "Apuem Logo")
+![alt text](https://a-static.github.io/a.png "Apuem Logo")
