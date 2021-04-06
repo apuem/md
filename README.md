@@ -31,7 +31,7 @@ Line:
 
 1. OrderedItem1
 2. OrderedItem2
-  1. SubItem
+  1.SubItem
 
 * UnorderedItem1
 * UnorderedItem2
