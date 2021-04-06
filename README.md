@@ -37,4 +37,4 @@ Line:
 * UnorderedItem2
 ⋅⋅* SubItem
 
-!![alt text](https://a-static.github.io/logo.png "Apuem Logo")
+!![alt text](https://a-static.github.io/a.png "Apuem Logo")
